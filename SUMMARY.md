@@ -1,0 +1,16 @@
+# Table of contents
+
+* [README](README.md)
+* [Como contribuir](CONTRIBUTING.md)
+* [Perguntas Frequentes](FAQ.md)
+* [Conseguindo Ajuda](HELP.md)
+* [extras](extras/README.md)
+  * [Livros](extras/books.md)
+  * [Ciência da Computação - Ótimos Cursos](extras/courses.md)
+* [specializations](specializations/README.md)
+  * [Computação Gráfica](specializations/computer_graphics.md)
+  * [Ciência de Dados](specializations/data_science.md)
+  * [Database Administrator (DBA)](specializations/database_administration.md)
+  * [Embarcados](specializations/embedded_systems.md)
+  * [Desenvolvimento Mobile](specializations/mobile_development.md)
+  * [Desenvolvimento Web](specializations/web_development.md)
